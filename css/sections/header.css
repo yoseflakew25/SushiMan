@@ -21,6 +21,7 @@
     .header__logo h4 {
         padding-left: 30px;
         color: white;
+        z-index: 10;
     }
     
     .header__menu,
